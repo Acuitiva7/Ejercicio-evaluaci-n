@@ -42,7 +42,7 @@ function guardarNombre() {
     console.log(nombreEstudiante);
  }
 
-//mostrar toast
+//mostrar toast (por configurar)
  const toastTrigger = document.getElementById('toastRegistro')
 const toastLiveExample = document.getElementById('liveToast')
 
